@@ -1,5 +1,5 @@
 
-# 📊 Health Indicators Analysis in R
+#  Health Indicators Analysis in R
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-Data%20Viz-0099cc?style=flat-square)
@@ -9,7 +9,7 @@ This project performs **descriptive statistics and visualizations** on health in
 
 ---
 
-## 📁 Files
+##  Files
 
 - `e4f51298-d6e1-4e67-879b-91e2a31edb30.R`: Main R script for processing, visualizing, and summarizing health data
 - `All_health_indicators_India.csv`: Required CSV dataset (not included)
@@ -18,7 +18,7 @@ This project performs **descriptive statistics and visualizations** on health in
 
 ---
 
-## 📌 Features
+##  Features
 
 - **Histogram for Cholesterol Levels**
   - Filters `NCD_CHOL_MEANNONHDL_C` records
@@ -36,7 +36,7 @@ This project performs **descriptive statistics and visualizations** on health in
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Ensure R and required packages are installed:
    ```r
@@ -55,6 +55,6 @@ This project performs **descriptive statistics and visualizations** on health in
 
 ---
 
-## 📄 License
+##  License
 
 This project is for educational/research purposes only.
